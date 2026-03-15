@@ -1,0 +1,13 @@
+features:
+- StateID
+- DistrictID
+- IHHLTotal
+- IHHLTotalAch
+- CoverageGap
+- AchievementRate
+models:
+- RandomForest
+- LinearRegression
+- SVR
+project: Sanitation Infrastructure Completion Prediction
+target: IHHLCoveragePer
