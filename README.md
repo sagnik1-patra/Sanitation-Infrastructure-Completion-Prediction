@@ -1,4 +1,4 @@
-Sanitation Infrastructure Completion Prediction using Hybrid Swarm Intelligence Algorithms
+Sanitation Infrastructure Completion Prediction using Hybrid Swarm Intelligence Algorithms.
 Project Overview
 
 Access to proper sanitation infrastructure is a crucial part of public health and sustainable development. Governments often collect district-level data about sanitation coverage and toilet construction progress. However, identifying whether infrastructure targets will be completed efficiently requires predictive analysis.
