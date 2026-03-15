@@ -1,0 +1,10 @@
+features:
+- StateID
+- DistrictID
+- IHHLTotal
+- IHHLTotalAch
+- CoverageGap
+- AchievementRate
+hybrid_model: Bat Algorithm + Crow Search Algorithm
+project: Sanitation Infrastructure Completion Prediction
+target: IHHLCoveragePer
