@@ -5,6 +5,6 @@ features:
 - IHHLTotalAch
 - CoverageGap
 - AchievementRate
-hybrid_model: Sequential ALOA + BA
+hybrid_model: Sequential ALOA + WOA
 project: Sanitation Infrastructure Completion Prediction
 target: IHHLCoveragePer
